@@ -44174,6 +44174,18 @@
 		)
 	)
 	(gr_text "VCC"
+		(at 100.96 65.48 90)
+		(layer "B.SilkS")
+		(uuid "827b76c9-410c-4b26-9d9e-2d5e9477bf24")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "VCC"
 		(at 143.97 122.03 90)
 		(layer "B.SilkS")
 		(uuid "83f7073d-35b2-480c-88a3-9732d16d18c4")
@@ -44849,6 +44861,18 @@
 		(at 132.74 97.43 0)
 		(layer "B.SilkS")
 		(uuid "f3773059-a13b-4191-b2ea-20fad4751322")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "VCC"
+		(at 143.96 65.48 90)
+		(layer "B.SilkS")
+		(uuid "f48b085e-8980-44a0-9790-080256ee0de9")
 		(effects
 			(font
 				(size 1 1)
